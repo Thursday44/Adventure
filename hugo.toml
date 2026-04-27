@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Adventures by Nessa'
+
+[params]
+  author = "Nessa"
+  description = "... Because I just like to have fun."

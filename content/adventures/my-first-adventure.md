@@ -1,7 +1,7 @@
 ---
 title: "Learning the NATO Alphabet + How I Memorized ABC Backwards"
 date: 2026-04-27
-image: "https://pixabay.com/images/download/blickpixel-wooden-cubes-473703_1920.jpg"
+image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&q=80&w=1200"
 ---
 
 If you are from the podcast, thank you; if you're not, you can listen to the full episode here on [Spotify](https://open.spotify.com/episode/5OBjWZEfW3JYh19BICLITg?si=LU7aEjxYT0OPu25qcyZWgA&t=251) and here on [Apple](https://podcasts.apple.com/ng/podcast/my-language-exchange-horror-taking-advice-too-far-nato/id1895406321?i=1000763471652).
